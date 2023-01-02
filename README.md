@@ -1,14 +1,14 @@
-###To-Do App
+##To-Do App
 This is a basic to-do app built with Flutter. It allows users to add, delete, and update to-do items, as well as search for any existing items.
 
-###Features
+##Features
 -Add new to-do items
 -Delete to-do items
 -Update to-do items
 -Search for existing to-do items
 
 
-###Getting Started
+##Getting Started
 Clone the repository: git clone https://github.com/[USERNAME]/to-do-app.git
 Navigate to the project directory: cd to-do-app
 Install the dependencies: flutter pub get
@@ -20,10 +20,10 @@ Copy code
 flutter build apk --release
 This will create an APK file in the build/app/outputs/apk/release directory, which you can then distribute to your users.
 
-###Contributing
+##Contributing
 If you'd like to contribute to the project, please read the CONTRIBUTING.md file for details on how to submit a pull request.
 
-###License
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Screenshot
