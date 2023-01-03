@@ -9,7 +9,7 @@ This is a basic to-do app built with Flutter. It allows users to add, delete, an
 
 
 ##Getting Started
-Clone the repository: git clone https://github.com/samuelkchris/Flutter-todo-app.git
+Clone the repository: git clone https://github.com/[USERNAME]/to-do-app.git
 Navigate to the project directory: cd to-do-app
 Install the dependencies: flutter pub get
 Run the app: flutter run
