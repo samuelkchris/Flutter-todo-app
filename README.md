@@ -11,21 +11,15 @@ This is a basic to-do app built with Flutter, a cross-platform mobile developmen
 To get started with the app, you will need to clone the repository and install the dependencies:
 
 Clone the repository:
-Copy code
-git clone https://github.com/samuelkchris/Flutter-todo-app.git
+```git clone https://github.com/samuelkchris/Flutter-todo-app.git```
 Navigate to the project directory:
-Copy code
 ``` cd to-do-app ```
 Install the dependencies:
-Copy code
 ``` flutter pub get ```
 Run the app:
-Copy code
 ``` flutter run ```
 # Building and Running for Production
 To build the app for production, run the following command:
-
-Copy code
 ``` flutter build apk --release ```
 This will create an APK file in the build/app/outputs/apk/release directory, which you can then distribute to your users.
 
