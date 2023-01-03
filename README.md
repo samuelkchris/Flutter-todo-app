@@ -15,18 +15,18 @@ Copy code
 git clone https://github.com/samuelkchris/Flutter-todo-app.git
 Navigate to the project directory:
 Copy code
-''' cd to-do-app '''
+``` cd to-do-app ```
 Install the dependencies:
 Copy code
-''' flutter pub get '''
+``` flutter pub get ```
 Run the app:
 Copy code
-''' flutter run '''
+``` flutter run ```
 # Building and Running for Production
 To build the app for production, run the following command:
 
 Copy code
-''' flutter build apk --release '''
+``` flutter build apk --release ```
 This will create an APK file in the build/app/outputs/apk/release directory, which you can then distribute to your users.
 
 # Screenshots
