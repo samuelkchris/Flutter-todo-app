@@ -25,7 +25,13 @@ This will create an APK file in the build/app/outputs/apk/release directory, whi
 
 # Screenshots
 Flutter todo app
-
+![alt text](./Screenshot_1673306736.png)
+![alt text](./Screenshot_1673306745.png)
+![alt text](./untitled.gif)
+![alt text](./Screenshot_1673306750.png)
+![alt text](./Screenshot_1673306754.png)
+![alt text](./Screenshot_1673306759.png)
+![alt text](./Screenshot_1673306763.png)
 # Contributing
 If you'd like to contribute to the project, please read the CONTRIBUTING.md file for details on how to submit a pull request.
 
